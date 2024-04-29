@@ -1,7 +1,7 @@
 ﻿using AdressbuchApp;
 using Klassenbibliothek.Models;
 
-Adressen adr = new Adressen();
+Adresse adr = new Adresse();
 adr.LoadFromFile("Adressen.txt");
 
 bool nextPerson = false;

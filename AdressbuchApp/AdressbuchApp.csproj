@@ -8,6 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\Adressen\Adressen.csproj" />
       <ProjectReference Include="..\Klassenbibliothek\Klassenbibliothek.csproj" />
     </ItemGroup>
 

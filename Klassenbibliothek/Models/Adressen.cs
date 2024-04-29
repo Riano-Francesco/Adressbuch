@@ -2,9 +2,9 @@
 
 namespace Klassenbibliothek.Models;
 
-public class Adressen
+public class Adresse
 {
-    private List<Person> people = new List<Person>();
+    public List<Person> people = new List<Person>();
     
     public void AddPerson(Person p)
     {
